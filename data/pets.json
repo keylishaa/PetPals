@@ -1,0 +1,26 @@
+[
+    {
+        "id_pet": "b1ed1b7a-42f6-45eb-bf1a-9b74a7cb2ecc",
+        "id_user": "896ebb5f-2cbf-4c1b-b3f4-c0912e550150",
+        "nama_pet": "Kalisa",
+        "jenis": "Kucing",
+        "ras": "Kampung",
+        "berat": 0.11
+    },
+    {
+        "id_pet": "dd1c2395-4f85-428f-a7ef-4804873d7306",
+        "id_user": "ed3b6134-5c50-45b1-835e-70b7c8dd5680",
+        "nama_pet": "Rani",
+        "jenis": "Anjing",
+        "ras": "buldog",
+        "berat": 10.0
+    },
+    {
+        "id_pet": "0b9c6d26-9f1b-4ba8-b352-dd37e6142a24",
+        "id_user": "ed3b6134-5c50-45b1-835e-70b7c8dd5680",
+        "nama_pet": "Cicit",
+        "jenis": "Lainnya",
+        "ras": "anggora",
+        "berat": 1.0
+    }
+]

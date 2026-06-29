@@ -1,0 +1,26 @@
+[
+    {
+        "id_room": "STD01",
+        "nama_room": "Kamar Standar Mungil",
+        "kapasitas": 3,
+        "status": "Tersedia",
+        "tipe": "Standard",
+        "harga": 100000
+    },
+    {
+        "id_room": "STD02",
+        "nama_room": "Kamar Standar Cozy",
+        "kapasitas": 3,
+        "status": "Tersedia",
+        "tipe": "Standard",
+        "harga": 100000
+    },
+    {
+        "id_room": "VIP01",
+        "nama_room": "Kamar VIP Luxurious Room",
+        "kapasitas": 1,
+        "status": "Tersedia",
+        "tipe": "VIP",
+        "harga": 250000
+    }
+]
